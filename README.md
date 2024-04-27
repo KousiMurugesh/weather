@@ -1,2 +1,2 @@
 # weather
-My first Project - Weather App
+Weather App
